@@ -2,7 +2,7 @@ This tool is intended for people that want to learn strategies for playing, and 
 
 After using this software extensively, one gets an "innate feeling" for when to fold, and how to gamble efficiently.
 
-Disclaimer: gamble reposnsibly!
+Disclaimer: gamble reponsibly!
 
 
 
